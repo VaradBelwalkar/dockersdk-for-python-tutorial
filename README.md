@@ -6,5 +6,4 @@ The tutorial includes following aspects :
   2.Prerequisites
   3.Introduction
   4.Containers 
-  5.Images
-  
+  5.Images 
